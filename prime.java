@@ -4,7 +4,7 @@ public class Prime
     {
       int num=29
       boolean isprime=true;
-      for(int i=2;i<=n/2;i++
+      for(int i=2;i<=n/2;i++)
       {
 
       
@@ -17,11 +17,11 @@ public class Prime
     }
       if(isprime)
      {
-        System.out.println(+num"prime number");
+        System.out.println(+num,"prime number");
      }
     else
      {
-        System.out.println(+num" not a prime number");
+        System.out.println(+num," not a prime number");
      }
    }
 }
