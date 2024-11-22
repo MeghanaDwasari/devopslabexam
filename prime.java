@@ -17,11 +17,11 @@ public class Prime
     }
       if(isprime)
      {
-        System.out.println(+num"it is prime number");
+        System.out.println(+num"prime number");
      }
     else
      {
-        System.out.println(+num"it is not a prime number");
+        System.out.println(+num" not a prime number");
      }
    }
 }
